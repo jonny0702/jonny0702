@@ -1,26 +1,21 @@
-### Hi, Im Jonathan 👋🧑‍💻
-
-![](https://user-images.githubusercontent.com/72591032/182267683-8156bf63-df5b-4e0b-8d2f-801511a54e9e.png)
+## Hi, I'm Jonathan 👋🧑‍💻
 
 Jonathan is a full-stack developer based in Panama, with a passion to solve real-life problems building software.When he’s not in the computer, he loves playing the piano or draw. Currently he is building his own digital service (Lost Traveller) with a team of three developers, and he likes studying some new technologies in his free time and building small coding stuff.
  
- 
- ### Technologies ⚙️
+ ### About me ✨
  
 ```js
 const jonny = {
+  tech: [web, nativeApps],
   code: [Javascript, Typescript, HTML, CSS, Node ],
-  tools: [React, React Native, Express, NetxJs, Styled-Components, Azure],
+  technologies: [React, React Native, Express, NetxJs, Styled-Components, Azure],
+  passions: ['Drawing✏️', 'Painting🖌️', 'playingThePiano🎹' , 'studyingNewTechnologies📈' , 'studyingAboutSpace🔭']
 }
 ```
-
-
-## Social  Medial 🤖
+### You can find me 🤖
  
- <ul>
- <li>Instagram</li>
- <li></li>
- <li></li>
- </ul>
+ - [Instagram](https://www.instagram.com/jonhy_vr/)
+ - [Linkedin](https://www.linkedin.com/in/jonhyvr/)
+ - [Twitch](https://www.twitch.tv/jonhy_vr)
 
 
