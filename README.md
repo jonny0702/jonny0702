@@ -7,8 +7,16 @@ Jonathan is a full-stack developer based in Panama, with a passion to solve real
 ```js
 const jonny = {
   tech: [web, nativeApps],
-  code: [Javascript, Typescript, HTML, CSS, Node ],
-  technologies: [React, React Native, Express, NetxJs, Styled-Components, Azure],
+  code: [Javascript, Typescript, Solidity, HTML, CSS, Node ],
+  technologies: [
+     React,
+     ReactNative,
+     Ionic,
+     Express,
+     NetxJs,
+     Web3,
+     Azure
+   ],
   passions: ['Drawing✏️', 'Painting🖌️', 'playingThePiano🎹' , 'studyingNewTechnologies📈' , 'studyingAboutSpace🔭']
 }
 ```
@@ -17,5 +25,6 @@ const jonny = {
  - [Instagram](https://www.instagram.com/jonhy_vr/)
  - [Linkedin](https://www.linkedin.com/in/jonhyvr/)
  - [Twitch](https://www.twitch.tv/jonhy_vr)
+ - [Portfolio](https://jonathan-portfolio-blond.vercel.app/)
 
 
