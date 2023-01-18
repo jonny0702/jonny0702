@@ -7,7 +7,7 @@ Jonathan is a full-stack developer based in Panama, with a passion to solve real
 ```js
 const jonny = {
   tech: [web, nativeApps],
-  code: [Javascript, Typescript, Solidity, HTML, CSS, Node ],
+  code: [Javascript, Typescript, Solidity, HTML, CSS, Node, Java ],
   technologies: [
      React,
      ReactNative,
@@ -15,7 +15,8 @@ const jonny = {
      Express,
      NetxJs,
      Web3,
-     Azure
+     Azure,
+     Spring
    ],
   passions: ['Drawing✏️', 'Painting🖌️', 'playingThePiano🎹' , 'studyingNewTechnologies📈' , 'studyingAboutSpace🔭']
 }
