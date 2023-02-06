@@ -10,7 +10,7 @@ const jonny = {
   code: [Javascript, Typescript, Solidity, HTML, CSS, Node, Java ],
   technologies: [
      React,
-     ReactNative,
+     Angular,
      Ionic,
      Express,
      NetxJs,
