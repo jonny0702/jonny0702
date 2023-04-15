@@ -1,6 +1,6 @@
 ## Hi, I'm Jonathan 👋🧑‍💻
 
-Jonathan is a full-stack developer based in Panama, with a passion to solve real-life problems building software.When he’s not in the computer, he loves playing the piano or draw. Currently he is building his own digital service (Lost Traveller) with a team of three developers, and he likes studying some new technologies in his free time and building small coding stuff.
+Jonathan is a full-stack developer based in Panama, with a passion to solve real-life problems building software.When he’s not in the computer, he loves playing the piano or draw. He likes studying some new technologies in his free time and building small coding projects.
  
  ### About me ✨
  
