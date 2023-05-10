@@ -1,6 +1,7 @@
 ## Hi, I'm Jonathan 👋🧑‍💻
 
-Jonathan is a full-stack developer based in Panama, with a passion to solve real-life problems building software.When he’s not in the computer, he loves playing the piano or draw. He likes studying some new technologies in his free time and building small coding projects.
+ I am a motivated and ambitious full-stack developer with a passion for building robust and scalable web applications. With a solid foundation in frontend and backend development, I am eager to take on new challenges and continue learning and growing in the field.
+
  
  ### About me ✨
  
