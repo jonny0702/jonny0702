@@ -13,11 +13,10 @@ const jonny = {
      React,
      Angular,
      Ionic,
-     Express,
+     Java Spring,
      NetxJs,
-     Web3,
+     Web3Js,
      Azure,
-     Spring
    ],
   passions: ['Drawing✏️', 'Painting🖌️', 'playingThePiano🎹' , 'studyingNewTechnologies📈' , 'studyingAboutSpace🔭']
 }
