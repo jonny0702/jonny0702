@@ -1,7 +1,7 @@
 ## Hi, I'm Jonathan 👋🧑‍💻
 
  I am a motivated and ambitious full-stack developer with a passion for building robust and scalable web applications. With a solid foundation in frontend and backend development, I am eager to take on new challenges and continue learning and growing in the field.
-I'm excited to share my knowledge and experience with the community here on GitHub!
+I'm excited to share my knowledge and experience with the community!
  
  ### About me ✨
  
