@@ -7,7 +7,7 @@ I'm excited to share my knowledge and experience with the community!
  
 ```js
 const jonny = {
-  tech: [web, nativeApps, crossPlatform],
+  tech: [web, nativeApps, crossPlatform, cloud],
   code: [Javascript, Typescript, Solidity, HTML, CSS, Node, Java ],
   technologies: [
      React,
