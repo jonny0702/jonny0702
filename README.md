@@ -1,7 +1,6 @@
 ## Hi, I'm Jonathan 👋🧑‍💻
 
- I am a motivated and ambitious full-stack developer with a passion for building robust and scalable web applications. With a solid foundation in frontend and backend development, I am eager to take on new challenges and continue learning and growing in the field.
-I'm excited to share my knowledge and experience with the community!
+I'm a driven and enthusiastic full-stack developer who thrives on creating resilient and expandable web and native applications. Equipped with a strong front-end and back-end development background, I'm enthusiastic about embracing fresh opportunities and constantly advancing in this domain. I look forward to contributing my insights and expertise to the community!
  
  ### About me ✨
  
